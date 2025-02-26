@@ -14,10 +14,7 @@ You can see images and a GIF of the project in user interaction below. The user 
 ![](/src/Resources/image/preview2.png)
 ![](/src/Resources/image/preview3.png)
 ![](/src/Resources/image/preview4.png)
-![](/src/Resources/image/showcase.gif)
 
-
-![Google Lighthouse Performance Results](https://i.ibb.co/qkXkY5W/report1.png)
 
 ## Motivation
 My motivations in building this project were showcasing what I learned so far and to have somewhat of a "sandbox" to experiment and build within. I was able to learn new libraries and I had to be creative with ways to improve my application's performance. I also believed that building a project with a much bigger codebase than my preceding ones and learning how to organize such a codebase could set me off better for work in a business environment - and it did.
