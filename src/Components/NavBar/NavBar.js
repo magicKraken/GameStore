@@ -37,6 +37,10 @@ const NavBar = props => {
     }
 
   const location = useLocation();
+ 
+    const openGithub = () => {
+      window.open('https://github.com/magicKraken/GameStore', '_blank');
+    };
 
   return (
     <>
@@ -117,7 +121,7 @@ const NavBar = props => {
               onMouseLeave={handleHover}
             >
                 <GitHub className={styles.gh} />
-                <h3>gianlucajahn</h3>
+                <h3 onClick={openGithub}>magicKraken</h3>
             </div>
 
             <div 
